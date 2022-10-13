@@ -1,6 +1,7 @@
+Human_Resource> db.Employee.find().pretty()
 [
   {
-    _id: ObjectId("6346c7a90be5191f4bada92a"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0f1"),
     firstName: 'John',
     lastName: 'Doe',
     salary: '25000',
@@ -13,7 +14,7 @@
     gradStream: 'CSE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada92b"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0f2"),
     firstName: 'Rohan',
     lastName: 'Jame',
     salary: '30000',
@@ -26,7 +27,7 @@
     gradStream: 'CSE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada92c"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0f3"),
     firstName: 'Jame',
     lastName: 'Doe',
     salary: '35000',
@@ -39,7 +40,7 @@
     gradStream: 'ECE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada92d"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0f4"),
     firstName: 'Sao',
     lastName: 'Avika',
     salary: '30000',
@@ -52,7 +53,7 @@
     gradStream: 'CSE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada92e"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0f5"),
     firstName: 'Jame',
     lastName: 'roh',
     salary: '35000',
@@ -65,7 +66,7 @@
     gradStream: 'EEE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada92f"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0f6"),
     firstName: 'Rohan',
     lastName: 'Jame',
     salary: '30000',
@@ -78,7 +79,7 @@
     gradStream: 'CSE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada930"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0f7"),
     firstName: 'Jame',
     lastName: 'Doe',
     salary: '35000',
@@ -91,7 +92,7 @@
     gradStream: 'ECE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada931"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0f8"),
     firstName: 'Sao',
     lastName: 'Avika',
     salary: '30000',
@@ -104,7 +105,7 @@
     gradStream: 'CSE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada932"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0f9"),
     firstName: 'Jame',
     lastName: 'Doe',
     salary: '35000',
@@ -117,7 +118,7 @@
     gradStream: 'EEE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada933"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0fa"),
     firstName: 'Rohan',
     lastName: 'Jame',
     salary: '30000',
@@ -130,7 +131,7 @@
     gradStream: 'CSE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada934"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0fb"),
     firstName: 'Jame',
     lastName: 'Doe',
     salary: '35000',
@@ -143,7 +144,7 @@
     gradStream: 'ECE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada935"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0fc"),
     firstName: 'Sao',
     lastName: 'Avika',
     salary: '30000',
@@ -156,7 +157,7 @@
     gradStream: 'CSE'
   },
   {
-    _id: ObjectId("6346c7a90be5191f4bada936"),
+    _id: ObjectId("6347effbedbdf51c2c2ee0fd"),
     firstName: 'Jame',
     lastName: 'Doe',
     salary: '35000',
